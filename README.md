@@ -1,7 +1,8 @@
 - 👋 Hi, I’m @HumbertoValenzuela
 - 👀 I’m interested in FrontEnd
-- 🌱 I’m currently learning CSS FlexBox y Grid
-- 💞️ I’m looking to collaborate on CSS y JavaScript
+- MiniWebSite in React use API: https://humbertovalenzuela.github.io/06React-Giphy-API-gif/
+- 🌱 I’m currently learning React
+- 💞️ I’m looking to collaborate on CSS, JavaScript and React
 - 📫 How to reach me hvg.informatico@gmail.com
 
 <!---
